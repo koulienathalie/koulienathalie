@@ -1,6 +1,7 @@
+<img align="right" alt="banner" width=50% src="https://i.pinimg.com/originals/44/4c/a7/444ca76be1493e407f7ee0ec7a3b50d5.gif">
 <h1 align="center">Hi, I'm Koulie</h1>
 <h3 align="center">A passionate frontend developer and web designer from Madagascar</h3>
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koulienathalie&label=Profile%20views&color=0e75b6&style=flat" alt="koulienathalie" /> </p>
 
 <p align="left"> <a href="https://twitter.com/koulienathalie" target="blank"><img src="https://img.shields.io/twitter/follow/koulienathalie?logo=twitter&style=for-the-badge" alt="koulienathalie" /></a> </p>
