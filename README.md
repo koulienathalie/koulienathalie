@@ -1,8 +1,5 @@
 <h1 align="center">Hi, I'm Koulie</h1>
 <h3 align="center">A passionate frontend developer and web designer from Madagascar</h3>
-<br>
-<br>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koulienathalie&label=Profile%20views&color=0e75b6&style=flat" alt="koulienathalie" /> </p>
 
