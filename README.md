@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Koulie</h1>
 <h3 align="center">A passionate frontend developer and web designer from Madagascar</h3>
-<h4 align="center">-- Please, make your theme to 'Light Default' --</h4>
 <br>
 <br>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif">
