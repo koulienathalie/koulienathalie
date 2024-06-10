@@ -15,6 +15,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=koulienathalie&theme=gotham&utcOffset=8)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=koulienathalie&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
